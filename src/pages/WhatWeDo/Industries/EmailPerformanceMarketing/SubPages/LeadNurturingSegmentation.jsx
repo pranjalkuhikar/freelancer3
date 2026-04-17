@@ -54,7 +54,7 @@ const LeadNurturingSegmentation = () => (
     />
 
     {/* Key Aspects of Lead Nurturing */}
-    <Introinfo
+    <IntroInfo
       title="Key Aspects of Lead Nurturing"
       description={
         <ul className="text-left">
@@ -66,7 +66,7 @@ const LeadNurturingSegmentation = () => (
     />
 
     {/* What is Segmentation & Why is it Important? */}
-    <Introinfo
+    <IntroInfo
       title="What is Segmentation & Why is it Important?"
       description={
         'Segmentation is the process of dividing your audience into smaller groups based on shared characteristics or behaviors. This allows marketers to deliver more relevant, personalized content, leading to better engagement and higher conversions.'

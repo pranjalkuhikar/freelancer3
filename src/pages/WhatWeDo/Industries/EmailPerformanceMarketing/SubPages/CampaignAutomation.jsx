@@ -68,7 +68,7 @@ const CampaignAutomation = () => (
     />
 
     {/* Why Use Campaign Automation */}
-    <Introinfo
+    <IntroInfo
       title="Why Use Campaign Automation?"
       description={
         <ul className="text-left">
