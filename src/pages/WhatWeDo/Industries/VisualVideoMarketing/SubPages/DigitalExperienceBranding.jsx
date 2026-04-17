@@ -2,7 +2,7 @@ import React from 'react';
 import PageHeroSection from '../../../../../components/common/PageHeroSection';
 import IntroSection from '../../../../../components/common/IntroSection';
 import ServiceCard from '../../../../../components/common/ServiceCard';
-import IntroInfo from '../../../../../components/common/Introinfo';
+import IntroInfo from '../../../../../components/common/IntroInfo';
 import ContactForm from '../../../../../components/common/ContactForm';
 
 const heroImg = '/Images/DigitalExperienceBranding_Hero.jpg'; // Replace with the correct hero image if available

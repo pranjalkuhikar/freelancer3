@@ -1,7 +1,7 @@
 import React from 'react';
 import PageHeroSection from '../../../../../components/common/PageHeroSection';
 import IntroSection from '../../../../../components/common/IntroSection';
-import IntroInfo from '../../../../../components/common/Introinfo';
+import IntroInfo from '../../../../../components/common/IntroInfo';
 import ContactForm from '../../../../../components/common/ContactForm';
 
 const heroImg = '/Images/UserGeneratedContent_Hero.jpg';

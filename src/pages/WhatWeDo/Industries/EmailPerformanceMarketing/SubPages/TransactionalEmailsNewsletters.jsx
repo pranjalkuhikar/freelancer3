@@ -2,7 +2,7 @@ import React from 'react';
 import PageHeroSection from '../../../../../components/common/PageHeroSection';
 import IntroSection from '../../../../../components/common/IntroSection';
 import ContactForm from '../../../../../components/common/ContactForm';
-import IntroInfo from '../../../../../components/common/Introinfo';
+import IntroInfo from '../../../../../components/common/IntroInfo';
 
 const heroImg = '/Images/TransactionalEmailsNewsletters_Hero.jpg';
 const introImg = '/Images/TransactionalEmailsNewsletters-1.jpg';
